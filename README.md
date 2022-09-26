@@ -1,2 +1,2 @@
 # JMTCP
-#Developed by Deogratius
+#Developed by DPM
